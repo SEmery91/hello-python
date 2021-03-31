@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.pythonPath": "C:\\Users\\Emery\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+}
